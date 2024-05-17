@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Software Engineering student in thesis process<br>⚡Full-time fullstack software developer<br>🌱Learning data science.
+🔭Software Engineering<br>⚡Full-time fullstack software developer<br>🌱Learning data science.
 
 
 ## 🌐 Socials:
